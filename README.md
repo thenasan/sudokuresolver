@@ -6,7 +6,9 @@ Sudoku to be solved is in grid variable.
 
 Process is as follow :
 
-Order list of empty case and process bactracking begining from case with mininum value :
+Get list of empty case in each row ,column and grid .
+Sort the list 
+Process bactracking begining from case with mininum value 
 
 Egg : 
 
