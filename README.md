@@ -4,7 +4,7 @@ This little project will help you to solve sudoku using backtracking
 #Instructions
 Sudoku to be solved is in grid variable.
 
-
+# Solving step
 Get list of empty case in each row ,column and grid .
 Sort the list 
 Process bactracking begining from case with mininum value 
